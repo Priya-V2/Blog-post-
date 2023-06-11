@@ -1,0 +1,1 @@
+A blog post about HTML which is designed by using HTML5 and CSS3 and navigation part will link you to a shoe product info which is designed by using 3 types of layouts - Floats, Flexbox, CSS Grid respectively.
